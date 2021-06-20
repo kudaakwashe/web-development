@@ -1,0 +1,20 @@
+.wrapper {
+    width: 40rem;
+    height: 40rem;
+    border-radius: 50%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+#mainTitle {
+    padding-top: 18rem;
+}
+
+#btn{
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    padding-top: 19.5rem;
+    margin-left: 10px;
+}
